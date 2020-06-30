@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/nether-spawn",
+  "1.16.1": {
+    "1.0": "Players are sent to the Nether when first joining the world\nIf no bed is set, players are sent to the Nether when respawning after death."
+  },
+  "promos": {
+    "<mcversion>-latest": "1.0",
+    "<mcversion>-recommended": "1.0"
+  }
+}
